@@ -1,0 +1,237 @@
+Que tipo de porta é comumente usada para conectar
+periféricos como teclados, mouses e impressoras a um
+computador?
+USB (Universal Serial Bus)
+USB (Ultra Speedy Bandwidth)
+HDMI (High-Definition Multimedia Interface)
+HDMI (Hybrid Digital Media Input)
+Traduzindo para o português: Barragem Serial e Universal
+01:30
+1
+
+Qual é a função de um dissipador de calor
+(heat sink) em um computador?
+
+Fornecer energia para os componentes
+Resfriar o processador ou outros chips quentes
+Resfriar o ambiente do gabinete
+Melhorar a qualidade do som
+O computador precisa esfriar
+01:30
+2
+
+
+Qual é a principal função de uma GPU?
+
+
+Armazenar programas e arquivos
+Exibir imagens e gráficos no monitor
+Processar informações de entrada
+Gerenciar a conectividade de rede
+O monitor é como me expresso.
+01:30
+2
+
+
+Qual componente de hardware é conhecido como
+"cérebro" do computador, responsável por executar
+instruções e processar dados?
+Disco rígido
+Memória RAM
+Processador
+Unidade Central de Processamento
+"Mais conhecido como CPU... Eu me chamo..."
+01:30
+4
+
+
+Qual componente de hardware armazena dados
+permanentemente em um computador e é frequentemente
+chamado de "disco rígido"?
+CPU (Central Prossesing Unit)
+GPU (Grafic Prossesing Unit)
+HDD (Hard Disk Drive)
+SSD (Solid State Drive)
+Traduzindo para o inglês: Hard Disk
+01:30
+3
+
+
+O que a sigla "RAM" representa quando se trata
+de hardware de computador?
+
+Read-Only Memory
+Random Access Memory
+Real-time Audio Module
+Rapid Application Manager
+"Me chamo RAM eu guardo informações temporárias de leitura..."
+01:30
+1
+
+
+Qual é a função principal de uma placa-mãe
+em um computador?
+
+Processar dados de entrada
+Fornecer energia para todos os componentes
+Armazenar dados permanentemente
+Conectar todos os componentes do sistema
+Todo mundo conectado na placa mãe amanhã viu! Sem falta em?...
+01:30
+4
+
+
+Qual dispositivo de hardware permite que um
+computador se conecte a redes locais ou à internet?
+
+Roteador
+Impressora
+Teclado
+Monitor
+Ele é ORiEnTADOR da internet.
+01:30
+1
+
+
+Que tipo de porta é comum em monitores de
+alta resolução e transmite vídeo e áudio digital?
+
+VGA
+USB
+HDMI
+DVI
+High-Definition Multimedia Interface.
+01:30
+3
+
+
+O que a sigla "CPU" representa em hardware
+de computador?
+
+Central Peripheral Unit
+Control Processing Unit
+Computer Performance Utility
+Central Processing Unit
+Ele é a unidade central de controle e processamento.
+01:30
+2
+
+
+Qual é a principal função da memória RAM
+em um computador?
+
+Processar dados com velocidade
+Armazenar dados permanentemente
+Processar gráficos e vídeos
+Armazenar dados temporários
+Lembra da resposta da questão 6?...
+01:30
+4
+
+
+O que um Firewall de Hardware faz em uma
+rede de computadores?
+
+Bloqueia vírus e malware
+Controla o tráfego de rede e protege contra ameaças externas
+Gerencia senhas de usuário
+Controla o tráfego de rede e protege contra ameaças internas
+Filtragem física de tráfego na rede, externa.
+01:30
+2
+
+
+Qual destes tipos de impressoras utiliza
+um processo de aquecimento para transferir tinta
+para o papel?
+Matricial
+Térmica
+Jato de Tinta
+Laser
+Piu... Piu... Piu... (Star Wars tem muito)
+01:30
+4
+
+
+O que é um SSD em termos de armazenamento
+de dados?
+
+Solid State Drive
+Solid Security Device
+Sensitive Storage Drive
+System Storage Device
+Mídia rápida e estável para armazenamento de dados.
+01:30
+1
+
+
+O que a sigla "BIOS" representa em termos
+de hardware de computador?
+
+Binary Input/Output System
+Basic Input/Output System
+Best Internal Operating System
+Base Information Output System
+É um sistema básico de entrada e saída.
+01:30
+2
+
+
+Qual é o nome da tecnologia de interface
+de alta velocidade que permite a transferência de
+dados a taxas de até 40 Gbps?
+USB 2.1
+SATA 3.0
+Thuderbolt 3
+eSATA
+Pikachu use choque do trovão V.3!
+01:30
+3
+
+
+Quais são os nomes das duas principais
+arquiteturas de CPU encontradas em processadores
+modernos, com base na empresa que as desenvolveu?
+x86 (Intel) e ARM
+MIPS e PowerPC
+RISC e CISC
+AMD64 (x86-64) e SPARC
+São criadores de, respectivamente, processadores e placas mães.
+01:30
+1
+
+
+Que tipo de memória volátil é conhecida
+por ser a mais rápida, mas também a mais cara,
+usada como cache de alto nível em CPUs?
+Nível 1 de cache
+L1 cache
+Cache de primeiro nível
+Cache L1
+Dinheiro level:1
+01:30
+4
+
+
+Qual é o nome da unidade de medida que
+descreve a frequência de relógio de um processador
+e é equivalente a um bilhão de ciclos por segundo?
+Gigahertz (GHz)
+Terahertz (THz)
+Megahertz (MHz)
+Kilohertz (kHz)
+Conhece o rinoceronte azul da Gloob? O ****blaster?
+01:30
+1
+
+
+Qual é o protocolo de comunicação usado
+para conectar dispositivos em uma rede Ethernet e
+que opera na camada de enlace do modelo OSI?
+Protocolo Ethernet de Ligação (ELP)
+Protocolo de Controle de Acesso à Mídia (MAC)
+Protocolo Ethernet Local (ELP)
+Protocolo de Acesso à Rede (RAP)
+Exerse controle em tudo que entra e saí dos dispositivos.
+01:30
+2
